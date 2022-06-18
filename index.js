@@ -5,6 +5,7 @@ function isPalindrome(word) {
 }
 //my own tester
 //console.log(isPalindrome('madam'))
+//console.log(isPalindrome('mom'))
 
 /* 
   Add your pseudocode here
